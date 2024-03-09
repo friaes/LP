@@ -1,1 +1,1 @@
-# LP
+# LP Course Project

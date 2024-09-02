@@ -1,1 +1,1 @@
-# LP Course Project
+# Logic for Programming Course Project
